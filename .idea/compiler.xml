@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringMVC_01_quickStart" />
+        <module name="springMVC_03_bean_load" />
         <module name="springMVC_02_bean_load" />
       </profile>
     </annotationProcessing>
