@@ -65,49 +65,6 @@ public class UserController {
     }
 
 
-    //集合参数：json格式
-    //1.开启json数据格式的自动转换，在配置类中开启@EnableWebMvc
-    //2.使用@RequestBody注解将外部传递的json数组数据映射到形参的集合对象中作为数据
-    @RequestMapping("/listParamForJson")
-    @ResponseBody
-    public String listParamForJson(@RequestBody List<String> likes){
-        System.out.println("list common(json)参数传递 list ==> "+likes);
-        return "{'module':'list common for json param'}";
-    }
-
-    //POJO参数：json格式
-    //1.开启json数据格式的自动转换，在配置类中开启@EnableWebMvc
-    //2.使用@RequestBody注解将外部传递的json数据映射到形参的实体类对象中，要求属性名称一一对应
-    @RequestMapping("/pojoParamForJson")
-    @ResponseBody
-    public String pojoParamForJson(@RequestBody User user){
-        System.out.println("pojo(json)参数传递 user ==> "+user);
-        return "{'module':'pojo for json param'}";
-    }
-
-    //集合参数：json格式
-    //1.开启json数据格式的自动转换，在配置类中开启@EnableWebMvc
-    //2.使用@RequestBody注解将外部传递的json数组数据映射到形参的保存实体类对象的集合对象中，要求属性名称一一对应
-    @RequestMapping("/listPojoParamForJson")
-    @ResponseBody
-    public String listPojoParamForJson(@RequestBody List<User> list){
-        System.out.println("list pojo(json)参数传递 list ==> "+list);
-        return "{'module':'list pojo for json param'}";
-    }
-
-    //日期参数
-    //使用@DateTimeFormat注解设置日期类型数据格式，默认格式yyyy/MM/dd
-    @RequestMapping("/dataParam")
-    @ResponseBody
-    public String dataParam(Date date,
-                            @DateTimeFormat(pattern="yyyy-MM-dd") Date date1,
-                            @DateTimeFormat(pattern="yyyy/MM/dd HH:mm:ss") Date date2){
-        System.out.println("参数传递 date ==> "+date);
-        System.out.println("参数传递 date1(yyyy-MM-dd) ==> "+date1);
-        System.out.println("参数传递 date2(yyyy/MM/dd HH:mm:ss) ==> "+date2);
-        return "{'module':'data param'}";
-    }
-
 }
 
 

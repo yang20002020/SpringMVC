@@ -12,7 +12,7 @@
         <module name="springMVC_05_request_mapping" />
         <module name="springMVC_03_bean_load" />
         <module name="springMVC_04_bean_load" />
-        <module name="springmvc_07_request_param" />
+        <module name="springMVC_07_request_param" />
       </profile>
     </annotationProcessing>
   </component>
