@@ -21,6 +21,7 @@
         <module name="springMVC_015_rest_case" />
         <module name="springMVC_011_rest" />
         <module name="springMVC_014_rest_case" />
+        <module name="springMVC_016_SSM" />
       </profile>
     </annotationProcessing>
   </component>
