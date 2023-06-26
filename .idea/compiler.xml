@@ -18,6 +18,7 @@
         <module name="springmvc_06_request_param" />
         <module name="SpringMVC_01_quickStart" />
         <module name="springMVC_02_bean_load" />
+        <module name="springMVC_015_rest_case" />
         <module name="springMVC_011_rest" />
         <module name="springMVC_014_rest_case" />
       </profile>
