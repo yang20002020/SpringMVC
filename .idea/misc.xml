@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/springMVC_010_response" />
+    <file type="web" url="file://$PROJECT_DIR$/springMVC_011_rest" />
     <file type="web" url="file://$PROJECT_DIR$/SpringMVC_01_quickStart" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_02_bean_load" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_03_bean_load" />
@@ -26,6 +27,7 @@
         <option value="$PROJECT_DIR$/springMVC_08_request_param/pom.xml" />
         <option value="$PROJECT_DIR$/springMVC_09_request_param/pom.xml" />
         <option value="$PROJECT_DIR$/springMVC_010_response/pom.xml" />
+        <option value="$PROJECT_DIR$/springMVC_011_rest/pom.xml" />
       </list>
     </option>
   </component>
