@@ -6,6 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springMVC_011_rest" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_012_rest" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_013_rest_case" />
+    <file type="web" url="file://$PROJECT_DIR$/springMVC_014_rest_case" />
     <file type="web" url="file://$PROJECT_DIR$/SpringMVC_01_quickStart" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_02_bean_load" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_03_bean_load" />
@@ -32,6 +33,7 @@
         <option value="$PROJECT_DIR$/springMVC_011_rest/pom.xml" />
         <option value="$PROJECT_DIR$/springMVC_012_rest/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc_013_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/springMVC_014_rest_case/pom.xml" />
       </list>
     </option>
   </component>
