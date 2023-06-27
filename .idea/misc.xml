@@ -13,6 +13,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springMVC_018_SSM" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_019_SSM" />
     <file type="web" url="file://$PROJECT_DIR$/SpringMVC_01_quickStart" />
+    <file type="web" url="file://$PROJECT_DIR$/springMVC_020_SSM" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_02_bean_load" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_03_bean_load" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_04_bean_load" />
@@ -44,6 +45,7 @@
         <option value="$PROJECT_DIR$/springMVC_017_SSM/pom.xml" />
         <option value="$PROJECT_DIR$/springMVC_018_SSM/pom.xml" />
         <option value="$PROJECT_DIR$/springMVC_019_SSM/pom.xml" />
+        <option value="$PROJECT_DIR$/springMVC_020_SSM/pom.xml" />
       </list>
     </option>
   </component>
