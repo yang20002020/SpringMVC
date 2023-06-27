@@ -1,5 +1,4 @@
 package com.fuyu.controller;
-
 import com.fuyu.BookService;
 import com.fuyu.domain.Book;
 import org.springframework.beans.factory.annotation.Autowired;
