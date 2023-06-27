@@ -12,6 +12,7 @@
         <module name="springMVC_03_bean_load" />
         <module name="springMVC_04_bean_load" />
         <module name="springMVC_012_rest" />
+        <module name="springmvc_07_request_param" />
         <module name="springMVC_07_request_param" />
         <module name="springMVC_08_request_param" />
         <module name="springMVC_017_SSM" />
@@ -25,5 +26,8 @@
         <module name="springMVC_016_SSM" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springMVC_07_request_param" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
