@@ -13,6 +13,7 @@
         <module name="springMVC_04_bean_load" />
         <module name="springMVC_012_rest" />
         <module name="springmvc_07_request_param" />
+        <module name="springMVC_019_SSM" />
         <module name="springMVC_08_request_param" />
         <module name="springMVC_017_SSM" />
         <module name="springMVC_010_response" />
