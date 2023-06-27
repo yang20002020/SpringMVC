@@ -14,6 +14,7 @@
         <module name="springMVC_012_rest" />
         <module name="springMVC_07_request_param" />
         <module name="springMVC_08_request_param" />
+        <module name="springMVC_017_SSM" />
         <module name="springMVC_010_response" />
         <module name="springmvc_06_request_param" />
         <module name="SpringMVC_01_quickStart" />
