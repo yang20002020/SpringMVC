@@ -27,6 +27,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="springMVC_018_SSM" target="1.5" />
       <module name="springMVC_07_request_param" target="1.5" />
     </bytecodeTargetLevel>
   </component>
