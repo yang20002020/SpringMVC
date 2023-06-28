@@ -23,6 +23,7 @@
         <module name="SpringMVC_01_quickStart" />
         <module name="springMVC_021_SSM" />
         <module name="springMVC_02_bean_load" />
+        <module name="springMVC_023_SSM" />
         <module name="springMVC_015_rest_case" />
         <module name="springMVC_018_SSM" />
         <module name="springMVC_011_rest" />
