@@ -9,7 +9,7 @@ import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @Configuration
-@ComponentScan({"com.fuyu.controller","com.fuyu.config"})
+@ComponentScan({"com.fuyu.controller"})
 @EnableWebMvc
 public class SpringMvcConfig implements WebMvcConfigurer  {
 
