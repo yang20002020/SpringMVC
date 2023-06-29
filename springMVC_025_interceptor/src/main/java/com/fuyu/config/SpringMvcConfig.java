@@ -7,6 +7,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @Configuration
 @ComponentScan({"com.fuyu.controller"})
 @EnableWebMvc
-public class SpringMvcConfig implements WebMvcConfigurer {
+public class SpringMvcConfig {
 
 }
