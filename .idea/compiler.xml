@@ -13,6 +13,7 @@
         <module name="springMVC_012_rest" />
         <module name="springMVC_019_SSM" />
         <module name="springMVC_010_response" />
+        <module name="springMVC_028_interceptor" />
         <module name="SpringMVC_01_quickStart" />
         <module name="springMVC_02_bean_load" />
         <module name="springMVC_023_SSM" />
