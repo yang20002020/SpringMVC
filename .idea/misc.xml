@@ -20,6 +20,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springMVC_024_SSM" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_025_interceptor" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_026_interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/springMVC_027_interceptor" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_02_bean_load" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_03_bean_load" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_04_bean_load" />
@@ -58,6 +59,7 @@
         <option value="$PROJECT_DIR$/springMVC_024_SSM/pom.xml" />
         <option value="$PROJECT_DIR$/springMVC_025_interceptor/pom.xml" />
         <option value="$PROJECT_DIR$/springMVC_026_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/springMVC_027_interceptor/pom.xml" />
       </list>
     </option>
   </component>

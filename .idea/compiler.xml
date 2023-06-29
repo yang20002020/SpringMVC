@@ -21,6 +21,7 @@
         <module name="springMVC_018_SSM" />
         <module name="springMVC_026_interceptor" />
         <module name="springMVC_011_rest" />
+        <module name="springMVC_027_interceptor" />
         <module name="springMVC_013_rest_case" />
         <module name="springMVC_020_SSM" />
         <module name="springMVC_024_SSM" />
