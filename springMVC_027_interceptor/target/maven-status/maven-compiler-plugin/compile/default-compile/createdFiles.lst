@@ -1,6 +1,0 @@
-com\fuyu\config\ServletContainersInitConfig.class
-com\fuyu\controller\BookController.class
-com\fuyu\config\SpringMvcSupport.class
-com\fuyu\config\SpringMvcConfig.class
-com\fuyu\domain\Book.class
-com\fuyu\controller\interceptor\ProjectInterceptor.class

@@ -1,5 +1,0 @@
-com\fuyu\controller\UserController.class
-com\fuyu\config\ServletContainersInitConfig.class
-com\fuyu\config\SpringMvcConfig.class
-com\fuyu\domain\Book.class
-com\fuyu\domain\User.class
